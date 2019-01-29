@@ -1,0 +1,10 @@
+int a;
+cin >> a;
+
+/* if a is an even integer*/
+if(a%2 == 0)
+	cout << "Even integer\n";
+else
+	cout << "Odd integer\n";
+
+
